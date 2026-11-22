@@ -1,6 +1,6 @@
 # Taco Compass
 
-A round handheld compass that points to the nearest Taco Bell, or to anything else you give it a list of: breweries, coffee shops, trailheads, your friends' houses. Swipe left/right to step through the five nearest plus Home; swipe up/down to change pages. It also has a full compass page and a bubble level. It works completely offline. The places, a magnetic-declination model and everything else live in flash.
+A round handheld compass built on the Waveshare ESP32-S3 that points to the nearest Taco Bell, or to anything else you give it a list of: breweries, coffee shops, trailheads, your friends' houses. Swipe left/right to step through the five nearest plus Home; swipe up/down to change pages. It also has a full compass page and a bubble level. It works completely offline. The places, a magnetic-declination model and everything else live in flash.
 
 ![screens](docs/screens.png)
 
