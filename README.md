@@ -6,7 +6,7 @@ A round handheld compass that points to the nearest Taco Bell, or to anything el
 
 *Splash · finder · arrival · Home · compass · level · a brewery build with a custom icon · plain-pin theme. Every screen here is rendered from the real UI code (`make -C test preview`).*
 
-**The original build**, in glitter PETG:
+**The original build**, in glitter PETG. Print files and the build story are on **[MakerWorld](https://makerworld.com/en/models/3660378-taco-compass)**.
 
 <p>
 <img src="docs/build/finder.jpg" width="24%" alt="Finder page: 3.7 miles to the nearest Taco Bell">
@@ -127,7 +127,7 @@ The board has unpopulated pads that connect the GPS's serial port to the ESP32. 
 ---
 
 ## Enclosure notes
-**Printable enclosure:** the STLs are in [`enclosure/`](enclosure/). The case is a round bezel for the display with a tower on top for the GPS antenna and a lanyard slot at the far end. The original was printed in glitter PETG.
+**Printable enclosure:** the STLs are in [`enclosure/`](enclosure/) and on [MakerWorld](https://makerworld.com/en/models/3660378-taco-compass). The case is a round bezel for the display with a tower on top for the GPS antenna and a lanyard slot at the far end. The original was printed in glitter PETG.
 
 ![enclosure parts](docs/build/enclosure-parts.png)
 
