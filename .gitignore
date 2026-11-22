@@ -1,0 +1,7 @@
+test/host_tests
+test/ui_preview
+test/fixture_db.h
+__pycache__/
+TacoCompass/about.h
+test/preview/
+test/*.o

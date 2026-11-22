@@ -1,0 +1,7 @@
+{"type":"FeatureCollection","features":[
+ {"type":"Feature","geometry":{"type":"Point","coordinates":[-84.001,34.001]},"properties":{"addr:street_address":"1 Fixture A Rd","addr:city":"Testville","addr:state":"Georgia"}},
+ {"type":"Feature","geometry":{"type":"Point","coordinates":[-84.05,34.05]},"properties":{"addr:street_address":"2 Fixture B Ave","addr:city":"Testville","addr:state":"GA"}},
+ {"type":"Feature","geometry":{"type":"Point","coordinates":[-84.2,34.1]},"properties":{"addr:housenumber":"3","addr:street":"Fixture C St","addr:city":"Mocktown","addr:state":"GA"}},
+ {"type":"Feature","geometry":{"type":"Point","coordinates":[-84.0011,34.0011]},"properties":{"addr:street_address":"1 Fixture A Rd Suite 100","addr:city":"Testville","addr:state":"GA"}},
+ {"type":"Feature","geometry":null,"properties":{}}
+]}

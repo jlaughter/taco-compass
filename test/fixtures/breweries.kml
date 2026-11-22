@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Breweries</name>
+    <Style id="icon-1"><IconStyle><Icon><href>images/icon-1.png</href></Icon></IconStyle></Style>
+    <Folder>
+      <name>Favorites</name>
+      <Placemark>
+        <name>Fixture Brewing Co</name>
+        <address>101 Fixture Ave NE, Testville, GA 30324, USA</address>
+        <styleUrl>#icon-1</styleUrl>
+        <Point><coordinates>-84.001,34.001,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Mock Ale Works</name>
+        <description><![CDATA[202 Pretend Pkwy, Mocktown, Georgia<br>Great porter!]]></description>
+        <Point><coordinates>
+          -84.05,34.05
+        </coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Breweries</name>
+        <address>303 Same Name St, Testville, GA</address>
+        <Point><coordinates>-84.2,34.1</coordinates></Point>
+      </Placemark>
+    </Folder>
+    <Placemark>
+      <name>Fixture Brewing Co</name>
+      <address>101 Fixture Ave NE Suite 2, Testville, GA 30324</address>
+      <Point><coordinates>-84.0011,34.0011</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Trail to the taproom</name>
+      <LineString><coordinates>-84.0,34.0 -84.1,34.1</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Quote "Test" | Pipe Brewing ¿</name>
+      <Point><coordinates>-83.9,34.3</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>No Address Taproom</name>
+      <Point><coordinates>-84.0,33.9</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>
